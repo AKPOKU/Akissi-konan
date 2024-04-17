@@ -12,7 +12,7 @@
  
  🔭 I’m currently working in **a Cybersecurity bootcamp**
  
- 🌱 I’m currently learning **sql, Python, AWS, Network Security,**
+ 🌱 I’m currently learning **sql, Python, AWS, Network Security,ComptIA+Security++**
 
 💬 Ask me about **python, bash, or sql... or anything [here]([https://github.com/AKPOKU/FirstREPO)**
 
